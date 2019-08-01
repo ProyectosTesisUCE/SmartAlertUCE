@@ -1,3 +1,0 @@
-[submodule "server"]
-	path = server
-	url = https://gitlab.com/JedAI/panic-btn.git
